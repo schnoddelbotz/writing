@@ -129,7 +129,7 @@ If you start from scratch, there are several reasons to go for pure text editors
    like GIT do not only provide a life long change history of your documents,
    but also serve as constant BACKUP. You CAN put binary files on git,
    but it simply makes no sense. Ask someone.
-2. Focus. You are not paid for designing a document. Type setting is an art.
+2. Focus. You are not paid for designing a document. Typesetting is an art.
    VERY VERY few people study typography or even bother about it. Now, with
    type setting tools like LaTeX, YOU do not need to bother - cool, eh?
    The idea is that THE TEXT MATTERS FOR YOU. Do NOT WASTE TIME FORMATTING.
