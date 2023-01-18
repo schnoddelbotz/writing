@@ -100,7 +100,7 @@ worse TrueType fonts (today ... replaced. Open.) on SCREEN in
 REAL TIME while typing. That was a MILESTONE. Nobody really
 needed. Anyhow. Both approaches exist today, and you can choose here:
 
-- CONSOLE Text Editors: vi, vim, emacs, nedit (Nirvana Editor, OLD), ...
+- CONSOLE Text Editors: vi, vim, emacs, ...
 - Graphical Text editors. I know it sounds weird. Thing is,
   back in the day, computer screens only displayed text.
   Then Xerox labs invented the GUI Graphical User Interface,
@@ -117,14 +117,14 @@ needed. Anyhow. Both approaches exist today, and you can choose here:
   And the bitmap is, per pixel on screen, a set of RED GREEN and BLUE 
   values, yielding ONE color dot per combination.
   Sorry. This does not belong in here. Must review.
-- So graphical TEXT EDITORS: SublimeText, NotePad, NotePad++, TextMate, TextWrangler, BBEdit, ...
+- So graphical TEXT EDITORS: SublimeText, NotePad, NotePad++, TextMate, TextWrangler, BBEdit, nedit (Nirvana Editor, OLD), ...
 - Graphical "document editors": Libre Office, Microsoft Word, ...
 
 What I called document editors above are the WYSIWYG tools as of today.
 Using them is NOT wrong, especially if you already KNOW them.
 
 If you start from scratch, there are several reasons to go for pure text editors:
-1. Revisioning. The graphical text editors all produce binary file formats, 
+1. Revisioning. The graphical document editors all produce binary file formats, 
    which are plain shit to put under version control. Version control tools
    like GIT do not only provide a life long change history of your documents,
    but also serve as constant BACKUP. You CAN put binary files on git,
