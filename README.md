@@ -157,6 +157,40 @@ for our purpose.
 
 See [texblog.org LaTeX documentclass options illustrated](https://texblog.org/2013/02/13/latex-documentclass-options-illustrated/)
 
+# Impressive words
+
+You shall impress your reader. Simple, use impressive terms.
+This is often re-discussed: Should you unmask yourself by
+using simple words or act like Shakespeare so nobody gets it
+and you a good grade? For sure, avoid Schachtelsätze. Literally
+box sentences - meaning, miles long and lots of commas.
+Readers can't follow. We say prägnant in German, sounds like
+pregnant but simply means succinct, brief - all we need.
+
+Take this section with a grain of salt. I'm doing it in German
+here and only for some areas I thought I'd have some lame ideas.
+
+## Impressive German words for Refugees
+- unmenschlich erbärmlich erniedrigend menschenverachtend ...
+- schmerzvoll belastend vernichtet zerstört ...
+- Belästigung Übergriffe Vergewaltigung Mord ...
+
+## Impressive German words for Lawyers & Judges
+- sofort unverzüglich umgehend baldmöglichst bald 2050
+- CUMEX Bestechung Korruption ("Lobbyismus") Seilschaften
+- Besonderes elektronisches Anwaltspostfack (bEA) [Lachnummer 4 U]
+- Gustl Mollath
+- Menschenrechte
+- Strafgerichtshof
+- Unterlassene Hilfeleistung
+- Verschleppung von Straftaten
+- Fragwürdige Politik-Kooperationen
+- ... to be IMPROVED. Hope you got the idea
+
+## Impressive German words for Computer Scientists
+- amazing impressive great awesome FANTASTIC excellent
+- kilo mega giga tera peta ... scale
+- awk cat sed tr perl wc yacc echo printf tar rev tr id w?
 
 # Legal
 
