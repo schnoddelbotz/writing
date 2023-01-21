@@ -216,8 +216,8 @@ here and only for some areas I thought I'd have some lame ideas.
 
 ## Example(s)
 
-See [examples/va.tex](./examples/) for an LaTeX
-example template for a Vertiefungsarbeit. It's work in
+See [examples/va.tex](https://github.com/schnoddelbotz/writing/tree/main/examples) for an LaTeX
+example template for a [Vertiefungsarbeit](https://www.bzz.ch/berufslehre/abu/vertiefungsarbeit/). It's work in
 progress and no official thing. But once I stop working
 on it, feedback/PRs is/are welcome. Thanks!
 
