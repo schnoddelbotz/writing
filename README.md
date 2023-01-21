@@ -78,8 +78,8 @@ REGARDLESS OF DOCUMENT TYPE we need at least these three things:
    If you don't have to submit it - do it by hand. If you have to submit,
    you may want to use [GraphViz](https://graphviz.org/), which can be
    used to draw all kind of Graphs (think #DAG #Airflow or #TerraForm).
-   The "dotty" source code for this example can be found [here](./relevance-tree_map-mindmap.dot).
-   ![Example mindmap](relevance-tree_map-mindmap.png)
+   The "dotty" source code for this example can be found [here](https://github.com/schnoddelbotz/writing/tree/main/examples/relevance-tree_map-mindmap.dot).
+   ![Example mindmap](./examples/relevance-tree_map-mindmap.png)
 
 2. An Outline. The German Stichwort-Liste, the predecessor of the table of contents.
    Nothing more. Inhaltsverzeichnis draft. Overview of document structure and contents. 
