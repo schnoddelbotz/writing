@@ -259,7 +259,7 @@ mean cozy redish. You do not want this in your work.
 ## Ready, set, go! Gnah?! Writing the first sentence.
 
 So we now have a multi-core CPU running at 3 or more GigaHertz,
-gigabytes of free RAM -- now it's our task to say something useful.
+gigabytes of free RAM -- now it's our task to [say something](https://www.youtube.com/watch?v=-2U0Ivkn2Ds) useful.
 
 Can't type just yet?
 
