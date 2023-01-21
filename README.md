@@ -174,8 +174,7 @@ for our purpose.
 See [texblog.org LaTeX documentclass options illustrated](https://texblog.org/2013/02/13/latex-documentclass-options-illustrated/)
 
 
-
-# Impressive words
+## Impressive words
 
 You shall impress your reader. Simple, use impressive terms.
 This is often re-discussed: Should you unmask yourself by
@@ -188,12 +187,12 @@ pregnant but simply means succinct, brief - all we need.
 Take this section with a grain of salt. I'm doing it in German
 here and only for some areas I thought I'd have some lame ideas.
 
-## Impressive German words for Refugees
+### Impressive German words for Refugees
 - unmenschlich erbärmlich erniedrigend menschenverachtend ...
 - schmerzvoll belastend vernichtet zerstört ...
 - Belästigung Übergriffe Vergewaltigung Mord ...
 
-## Impressive German words for Lawyers & Judges
+### Impressive German words for Lawyers & Judges
 - sofort unverzüglich umgehend baldmöglichst bald 2050
 - CUMEX Bestechung Korruption ("Lobbyismus") Seilschaften
 - Besonderes elektronisches Anwaltspostfack (bEA) [Lachnummer 4 U]
@@ -205,12 +204,12 @@ here and only for some areas I thought I'd have some lame ideas.
 - Fragwürdige Politik-Kooperationen
 - ... to be IMPROVED. Hope you got the idea
 
-## Impressive German words for Computer Scientists
+### Impressive German words for Computer Scientists
 - amazing impressive great awesome FANTASTIC excellent
 - kilo mega giga tera peta ... scale
 - awk cat sed tr perl wc yacc echo printf tar rev tr id w?
 
-# Example(s)
+## Example(s)
 
 See [examples/va.tex](./examples/) for an LaTeX
 example template for a Vertiefungsarbeit. It's work in
@@ -257,16 +256,51 @@ some #PostProcessing #ImageEditing tool. To make a yellow/warm
 page of paper truly look white, it must be COLD. Warm colors
 mean cozy redish. You do not want this in your work.
 
+## Ready, set, go! Gnah?! Writing the first sentence.
+
+So we now have a multi-core CPU running at 3 or more GigaHertz,
+gigabytes of free RAM -- now it's our task to say something useful.
+
+Can't type just yet?
+
+I guess we'll be here tonight as well. Ever heard of a dictaphone?
+You don't need it. Open Voice recorder app on your mobile phone.
+
+Now choose one of the topics from YOUR OUTLINE.
+
+Tell me something. I do not bite. If you say something useful,
+accidentally, we now have it on tape and you can type it down
+at your own pace.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eYdr0r5hEN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+You just heard the sound of an original typewriter, as intially
+developed by IBM, International business machines OR SO.
+I am not sure. Go ask them. All I can tell is that even doctors
+around the year 2000 prefered speaking to voice recorders,
+as WRITING is CHALLENGING. It's easier to speak.
+Go to a #Schreibbüro if you do not want to learn typing on a keyboard.
+My dad was the same, so I gifted him an #IPAD. He made some money
+using stocks then, I tell you. I also tell you:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U8Qc_dzQTJ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Yes, I never did that. There are tools to learn PLACING your
+hands CORRECTLY on a keyboard. I started using the two-finger-hawk-search-approach
+(the [Adler-Suchsystem](https://de.wikipedia.org/wiki/Adlersuchsystem)), which
+I now have to tell [Hamdan](https://twitter.com/HamdanMohammed) about.
+I think he loves hawks as well. Save the planet. Visit Dubai for hawks!
+
 # Legal
 
 These tips come without warranty. See room for improvement?
 This is OpenSource. Either file a pull request to help making this
 document better or go on an ego trip, fork the repo and then
-rewrite from scratch. Mentioning me is source would be nice
+rewrite from scratch. Mentioning me in source would be nice
 but I'm no dreamer.
 
 As student, I'd stay away from ghostwriters. Maybe better ask
-as friend to do brainstorming with you. Independent. New ideas.
+a friend to do brainstorming with you. Independent. New ideas.
 That's allowed. Also keep in mind, most schools DO USE plagiarism
 detection tools nowadays. The more retarded ones make a secret
 out of the magic, transparent ones like Liverpool University
