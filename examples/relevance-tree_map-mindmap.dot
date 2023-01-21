@@ -1,0 +1,21 @@
+digraph G {
+  
+  node [shape=underline]
+  graph [pad="0.2"];
+  overlap=false;
+  #size="8.3,11.7!"
+  #edge[style=invis];
+  Microservices [shape=box, fontname="times bold"]
+  "Software Architecture" [shape=box] 
+  "Databases" [shape=box] 
+  "Continuous delivery" [shape=box] 
+
+  Microservices -> {"Software Architecture" "Continuous delivery" "Databases"}
+  "Software Architecture" -> {Monolith Decoupling SOA "Event-Driven" "Domain-Driven Design" Serverless}
+  "Continuous delivery" -> {DevOps "Version Control" "Test Automation" "Release Management"}
+  
+  "Databases" -> {Types Availability Scalability Concurrency Consistency Transactions}
+  "Types" -> {RDBMS NoSQL}
+  "Consistency" -> {ACID CAP}
+  "Transactions" -> {"Distributed Transactions" "Two-phase commit" Sagas}
+}

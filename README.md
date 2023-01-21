@@ -74,6 +74,12 @@ REGARDLESS OF DOCUMENT TYPE we need at least these three things:
    That means words typeset in a larger font are (thought to be) more 
    relevant for the document itself and/or the reader (!).
    See my example below, which CENTERED around the MicroServices (IT) topic.
+   It's based on this [dissertation relevance tree](https://www.nottingham.ac.uk/studentservices/documents/dissertation-relevancetree.pdf), found at University of Nottingham.
+   If you don't have to submit it - do it by hand. If you have to submit,
+   you may want to use [GraphViz](https://graphviz.org/), which can be
+   used to draw all kind of Graphs (think #DAG #Airflow or #TerraForm).
+   The "dotty" source code for this example can be found [here](./relevance-tree_map-mindmap.dot).
+   ![Example mindmap](relevance-tree_map-mindmap.png)
 
 2. An Outline. The German Stichwort-Liste, the predecessor of the table of contents.
    Nothing more. Inhaltsverzeichnis draft. Overview of document structure and contents. 
