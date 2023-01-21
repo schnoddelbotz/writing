@@ -194,10 +194,47 @@ here and only for some areas I thought I'd have some lame ideas.
 
 # Example(s)
 
-See [examples/va.tex](./examples/va.tex) for an LaTeX
+See [examples/va.tex](./examples/) for an LaTeX
 example template for a Vertiefungsarbeit. It's work in
 progress and no official thing. But once I stop working
 on it, feedback/PRs is/are welcome. Thanks!
+
+# Media - images
+
+Image is not image. LaTeX supports both types of basic
+image formats:
+
+- Vector graphics (e.g. PS, EPS, SVG, DXF)
+- Bitmap graphics (BMP, TGA, TIFF, JPEG)
+
+Note LaTeX does not support all file types. File converters
+help you to translate from formats to those your application,
+here LaTeX understands. For images, people often use
+[ImageMagick](https://imagemagick.org/index.php). For documents,
+other tools like [pandoc](https://pandoc.org/) exist too.
+A nightmare. No. Just stick to ONE (or two) formats well-supported
+(like JPEG and EPS) and you're good to go.
+
+## Scanning
+
+Back in the day, we often SCANNED newspapers or images to use
+them within our documents. Those days are over IMHO - your mobile
+phone does it equally good IF LIGHT CONDITIONS are good and
+you act like the scanner:
+
+1. Set up bright room, indirect sunlight ideally?
+2. Put photography or book or ... on a TABLE
+3. Now move OVER the book FROM top. Not from the side, no angle.
+4. Ensure no glare, minimally adjust position if reflections
+
+To verify success of point 3: Aspect ratio. It must be the same for
+the original book like on the image. Crushed or skewed images look
+awful.
+
+You may need to adjust #WhiteBalance in your camera or using
+some #PostProcessing #ImageEditing tool. To make a yellow/warm
+page of paper truly look white, it must be COLD. Warm colors
+mean cozy redish. You do not want this in your work.
 
 # Legal
 
