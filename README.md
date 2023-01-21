@@ -22,13 +22,15 @@ no educator but had to write a 100-page document myself
 once and did not totally fail. So YMMV meaning your milage
 may vary. Use my hints at your own risk.
 
-I refuse ghostwriting but love to help, if I can.
-Wish Dave the best.
+I refuse [ghostwriting](https://www.ghostscript.com/) but love to help, if I can.
+Wish Dave the best. [You could be dave](https://www.youtube.com/watch?v=6Sp1bLrBAuQ).
 
-If you're going through this adventure with me for the
+If you're going through this [adventure](https://youtu.be/-FS5EPSSVSs) with me for the
 first time, you'll need 6 sheets of paper. Yes.
 I just decided 6 is good. I name them #S1 to #S6.
 Maybe we can use 4-6 for airplanes in the end.
+
+Don't follow links in this document unless you feel you must.
 
 And you also need a pencil for you.
 And one for your buddy, should you brainstorm together.
@@ -48,8 +50,8 @@ supposed to produce. Here are some common german examples ..
 | Erörterung     | Secondary school| Comments on some topic  | 1~5p | 
 | Interpretation | Sec/Highschool  | Text understanding test | 1~5p |
 | VA (Zurich)    | Lehre Lagerist etc | Free choice, choose well | 6p |
-| Thesis Diplomarbeit Masterarbeit | Institutes of technology, Universities | Same as VA | ~100p |
-| Dissertation   | University      | To gain Dr.             | Same as VA | 100+p|
+| Thesis Diplomarbeit Masterarbeit| Institutes of technology, Universities | Same as VA | ~100p |
+| Dissertation   | University      | To gain Dr. / Same as VA | 100+p|
 
 Each document type has some STANDARD outline and contents the
 reader WILL expect. Keep both in mind till the end to win.
@@ -57,7 +59,8 @@ reader WILL expect. Keep both in mind till the end to win.
 ## Getting started
 
 If you haven't done SOME writing before, then this is the hardest part.
-Don't worry, it's easy. Watch the A-Team. A good plan is what matters.
+Don't worry, it's easy. Watch the [A-Team](https://www.youtube.com/watch?v=4DizRZSg7wA).
+A good plan is what matters.
 And you, verifying the plan DAILY to avoid surprises and meet the DEADLINE.
 The deadline is an ugly word, in German: Abgabetermin - try: 
 due date (Fälligkeitsdatum, literally).
@@ -74,26 +77,27 @@ REGARDLESS OF DOCUMENT TYPE we need at least these three things:
    That means words typeset in a larger font are (thought to be) more 
    relevant for the document itself and/or the reader (!).
    See my example below, which CENTERED around the MicroServices (IT) topic.
-   It's based on this [dissertation relevance tree](https://www.nottingham.ac.uk/studentservices/documents/dissertation-relevancetree.pdf), found at University of Nottingham.
+   It's based on this [dissertation relevance tree](https://www.nottingham.ac.uk/studentservices/documents/dissertation-relevancetree.pdf), found at [University of Nottingham](https://www.nottingham.ac.uk).
    If you don't have to submit it - do it by hand. If you have to submit,
    you may want to use [GraphViz](https://graphviz.org/), which can be
-   used to draw all kind of Graphs (think #DAG #Airflow or #TerraForm).
-   The "dotty" source code for this example can be found [here](https://github.com/schnoddelbotz/writing/tree/main/examples/relevance-tree_map-mindmap.dot).
+   used to draw all kind of Graphs (think #DAG #[Airflow](https://airflow.apache.org/) or #[TerraForm](https://www.terraform.io/)).
+   The "[dotty](https://www.youtube.com/watch?v=9B7w_fh4fg8)" source code for this example can be found [here](https://github.com/schnoddelbotz/writing/tree/main/examples/relevance-tree_map-mindmap.dot).
    ![Example mindmap](./examples/relevance-tree_map-mindmap.png)
 
-2. An Outline. The German Stichwort-Liste, the predecessor of the table of contents.
+2. An [Outline](https://www.youtube.com/watch?v=1t4E7pJbIpY).
+   The German Stichwort-Liste, the predecessor of the table of contents, recycled from your mindmap.
    Nothing more. Inhaltsverzeichnis draft. Overview of document structure and contents. 
    Brief. There should always be room for quick notes (#Brainstorming).
 
 3. A schedule. Zeitplan. Time. Planning. 
    Two-fold. 
-   FIRST, for each point of the outline, plan time required, compute total if you wish.
+   *FIRST*, for each point of the outline, plan time required, compute total if you wish.
    That means break down the work into CLEARLY IDENTIFYABLE parts (so you can EASILY measure success),
    and stick them into your calendar. More later (Online services, git...)
-   SECOND back to real life. You have a job? A life? Or a family? Or even both?
+   *SECOND* back to real life. You have a job? A life? Or a family? Or even both?
    Nice. They will all break your plan. Be realistic.
    PLAN to submit the paper 20% BEFORE deadline. Worst that can happen to you:
-   You're done too early and have zero motivation to improve further. Then submit.
+   You're done too early and have zero motivation to improve further. Then [submit](https://www.turnitin.com/).
 
 4. A log book. A diary. Of course I did not mention beforehand,
    because it's included in our document (Appendix A) - lame excuse. Yes.
@@ -119,16 +123,17 @@ worse TrueType fonts (today ... replaced. Open.) on SCREEN in
 REAL TIME while typing. That was a MILESTONE. Nobody really
 needed. Anyhow. Both approaches exist today, and you can choose here:
 
-- CONSOLE Text Editors: vi, vim, emacs, ...
+- CONSOLE Text Editors: [vi](https://youtu.be/S24LN5h_pac),
+  [vim](https://www.youtube.com/watch?v=X6AR2RMB5tE), [emacs](https://www.gnu.org/software/emacs/) (and [how to get out](https://www.gnu.org/software/emacs/manual/html_node/emacs/Exiting.html), ...
 - Graphical Text editors. I know it sounds weird. Thing is,
   back in the day, computer screens only displayed text.
-  Then Xerox labs invented the GUI Graphical User Interface,
-  things like the Mouse, later sold to Apple etc. X11.
-  MIT. Well. You know Microsoft Windows? Before, there was MS-DOS.
+  Then [Xerox labs invented the GUI Graphical User Interface, things like the Mouse](https://www.youtube.com/watch?v=EAsyTHcenbk), later sold to Apple etc. [X11](https://en.wikipedia.org/wiki/X_Window_System).
+  [MIT](https://web.mit.edu/), [Berkeley](https://www.berkeley.edu/)... Well. You know Microsoft Windows? Before, there was MS-DOS.
   Also text mode (80x25 characters, default).
-  TEXTMODE means: The OS tells the GRAPHICS CARD:
+  [TEXTMODE means](https://youtu.be/7FSlz3akDjg): The OS tells the GRAPHICS CARD:
   Display TEXT: Hello.
-  Done. Graphics mode (same monitor connected, yay!) means that
+  Done - it's the graphics card's job to compute which pixels to light.
+  [Graphics mode](https://en.wikipedia.org/wiki/Video_Graphics_Array) (same monitor connected, yay!) means that
   the monitor has some resolution, e.g. SVGA 1024x768 pixels.
   Now the computer must compute the OUTLINE of some FONT,
   RENDER it (apply AntiAliasing etc.) and tell the Graphics card:
@@ -136,8 +141,8 @@ needed. Anyhow. Both approaches exist today, and you can choose here:
   And the bitmap is, per pixel on screen, a set of RED GREEN and BLUE 
   values, yielding ONE color dot per combination.
   Sorry. This does not belong in here. Must review.
-- So graphical TEXT EDITORS: SublimeText, NotePad, NotePad++, TextMate, TextWrangler, BBEdit, nedit (Nirvana Editor, OLD), ...
-- Graphical "document editors": Libre Office, Microsoft Word, ...
+- So graphical TEXT EDITORS: [SublimeText](https://www.sublimehq.com/), NotePad, [NotePad++](https://notepad-plus-plus.org/downloads/), TextMate, TextWrangler, BBEdit, [nedit](https://en.wikipedia.org/wiki/NEdit) (Nirvana Editor, OLD), ...
+- Graphical "document editors": [Libre Office](https://www.libreoffice.org/), [Microsoft Word](https://www.microsoft.com/de-ch/microsoft-365/word), ...
 
 What I called document editors above are the WYSIWYG tools as of today.
 Using them is NOT wrong, especially if you already KNOW them.
@@ -156,11 +161,11 @@ If you start from scratch, there are several reasons to go for pure text editors
 
 Ja, that's it. So:
 
-EITHER Text + Editor + Git + Latex OR some Graphical document editor, like MS-Word.
+*Either* Text + Editor + Git + Latex *or* some Graphical document editor, like MS-Word.
 
-To give the Latex approach a quick try, visit OverLeaf - Latex environment in the browser.
+To give the Latex approach a quick try, visit [OverLeaf](https://www.overleaf.com/) - [Latex](https://www.latex-project.org/) environment in the browser.
 
-Google "Latex download mac" to find MacTex for MacOS etc. I'll add links one day, maybe.
+Google "Latex download mac" to find [MacTex](https://www.tug.org/mactex/) for MacOS etc. I'll add links [one day](https://www.youtube.com/watch?v=YRom6y1E8p8), maybe.
 
 ## From Outline to paragraphs, sections, chapters etc.
 
@@ -224,8 +229,8 @@ You can ignore that for now or study the [KomaScript homepage](https://komascrip
 Image is not image. LaTeX supports both types of basic
 image formats:
 
-- Vector graphics (e.g. PS, EPS, SVG, DXF)
-- Bitmap graphics (BMP, TGA, TIFF, JPEG)
+- [Vector graphics](https://en.wikipedia.org/wiki/Vector_graphics) (e.g. PS, EPS, SVG, DXF, ..)
+- [Bitmap graphics](https://en.wikipedia.org/wiki/Bitmap) (BMP, TGA, TIFF, JPEG, ..) "pix-maps"
 
 Note LaTeX does not support all file types. File converters
 help you to translate from formats to those your application,
@@ -234,6 +239,21 @@ here LaTeX understands. For images, people often use
 other tools like [pandoc](https://pandoc.org/) exist too.
 A nightmare. No. Just stick to ONE (or two) formats well-supported
 (like JPEG and EPS) and you're good to go.
+
+Key difference between vector and bitmap? Read above articles or remember half of
+reality: Vector graphic formats DESCRIBE graphs - like maths, using functions.
+As result, you can SCALE vector graphics as you wish, without loss of QUALITY.
+
+A bitmap is the RASTERED version of a vector graphics file ... or a PHOTO, painting - random.
+If you enlarge a 6x6 pixel image, you will end up with 6x6 huge pixels.
+Works nicely thinking in boxes, but curves look ugly, really!
+
+Finally, RESOLUTION. Should you stumble upon that. Old CRT (Cathode ray tube, Kathodenstrahlröhre)
+monitors often used 72dpi or so? Your inkjet printer was said to be 600 dpi but that was a bad joke,
+because ink and paper, hach! Luckily you would never be able to measure and the numbers marketed
+quite well. Anyhow. Scans/Images - don't go beyond 300dpi. Most often "old" screen resolution of 72dpi would do
+for most documents printed A4 if not using vector graphics. Today, we have HiDPI retina displays, with resolution beyond capabilities of our eyes. That's because - we can. Uhm?
+
 
 ## Scanning
 
