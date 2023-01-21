@@ -89,6 +89,19 @@ REGARDLESS OF DOCUMENT TYPE we need at least these three things:
    PLAN to submit the paper 20% BEFORE deadline. Worst that can happen to you:
    You're done too early and have zero motivation to improve further. Then submit.
 
+4. A log book. A diary. Of course I did not mention beforehand,
+   because it's included in our document (Appendix A) - lame excuse. Yes.
+   DAILY exercise. DO SOMETHING. And if it's only writing the
+   log entry: Today I failed to do anything.
+   It will become harder to write every day. Just be honest to yourself.
+   FOCUS your GOAL. Avoid distractions. That's a free
+   Wintergatan lesson on learning and dopamin and DISTRACTIONS like
+   SocialMedia. Turn them OFF. You have to work, dude!
+   Only if you do not trust me - he IS RIGHT!
+   Watch:
+
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/eLUDauIxudM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Software for writing
 
 Oh well. Many books have been written, this is one of them.
@@ -152,10 +165,9 @@ requesting certain structure. So if using LaTeX for the task,
 we should now go and figure out a matching document type
 for our purpose.
 
-```
-```
-
 See [texblog.org LaTeX documentclass options illustrated](https://texblog.org/2013/02/13/latex-documentclass-options-illustrated/)
+
+
 
 # Impressive words
 
@@ -198,6 +210,9 @@ See [examples/va.tex](./examples/) for an LaTeX
 example template for a Vertiefungsarbeit. It's work in
 progress and no official thing. But once I stop working
 on it, feedback/PRs is/are welcome. Thanks!
+
+The example uses the [KomaScript article class](https://ctan.org/pkg/scrartcl?lang=en).
+You can ignore that for now or study the [KomaScript homepage](https://komascript.de/).
 
 # Media - images
 
