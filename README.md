@@ -46,7 +46,7 @@ supposed to produce. Here are some common german examples ..
 
 | Name           | Where           | Contents                | Size |
 |----------------|-----------------|-------------------------|------|
-| Aufsatz        | Primary school  | Any freeform text work  | 1~5p |
+| Aufsatz Essay  | Primary school  | Any freeform text work  | 1~5p |
 | Erörterung     | Secondary school| Comments on some topic  | 1~5p | 
 | Interpretation | Sec/Highschool  | Text understanding test | 1~5p |
 | VA (Zurich)    | Lehre Lagerist etc | Free choice, choose well | 6p |
@@ -166,6 +166,65 @@ Ja, that's it. So:
 To give the Latex approach a quick try, visit [OverLeaf](https://www.overleaf.com/) - [Latex](https://www.latex-project.org/) environment in the browser.
 
 Google "Latex download mac" to find [MacTex](https://www.tug.org/mactex/) for MacOS etc. I'll add links [one day](https://www.youtube.com/watch?v=YRom6y1E8p8), maybe.
+
+### Setting up your machine to work with git and LaTeX
+
+This section assumes macOS where you want to install [MacTex](https://www.youtube.com/watch?v=7u4_gzx-9rE).
+Windows users replace that with e.g. [MikTex](https://miktex.org/). On Debian or Ubuntu Linux, type
+`sudo apt install textlive` (see [debian texlive meta-package](https://packages.debian.org/bookworm/texlive)).
+Do that now. Something for your diary!
+
+Next choose a free GIT hosting service that offers PRIVATE repositories,
+giving you your BACKUP and COLLABORATION solution. Consider [gitlab](https://gitlab.com),
+[github](https://github.com/) (They do have one fance intro for new users, I can tell you! SPACE!)
+or [atlassian bitbucket](https://atlassian.com/) or so. Let's assume github simply because
+it's so widespread, which is no good argument to be fair.
+
+1. Visit e.g. github.com
+2. Create a new account
+3. Spend some hours preparing a nice profile picture that makes you stand out from the rest (optional)
+4. Open `Terminal.app` (from /Applications/Utilities or via Cmd-Space and typing Term...)
+5. Type `ssh-keygen` IF you're not aware of owning a SSH keypair yet. We need it to authenticate your macOS (User) to interact with the repository at github.com.
+6. ssh-keygen will ask for a PASSPHRASE. You CAN press enter, but if your notebook gets stolen, you should quickly remove the key from github.com. Meaning, convenience -- as a security aware user, you SHOULD use a passphrase. Otherwise the key generated - lying around in the wrong hands - acts like a regular physical key anybody can use to control your repository (or more). So, don't be lazy. Or at least be honest so you do not forget.
+7. After creating your account on [github.com](https://github.com), create a new repository for your document.
+8. Next, upload the SSH *public* key file generated in step 5 to github: Click on your profile icon, settings, then SSH and GPG keys. Upload the `id_?sa.pub` there (see Terminal output from step 5) to github.
+
+Finally, install [SublimeMerge](https://www.sublimemerge.com/) or any GIT GUI (Graphical user interface) of
+your choice. As IT noob, this enables us to focus on our document and its backup / changelog. You can
+take a terminal git Ninja course later on.
+
+Run SublimeMerge and provide the URL of the repository created in step 7 above, to run an initial "clone", meaning downloading the (more or less bare) repository to your machine so you can work "within" (or on) that repository.
+You'll have to provide a "checkout directory". That's the local directory to be used for the repository. Well.
+A git repository is a repository is a repository. Maybe they wanted to remember Subversion or so. Next.
+
+**You're (type) set!**
+
+After logging out once (or rebooting), your LaTeX environment will be ready to typeset documents.
+(Background is it installs some shell scripts, sourced at login only. Just logout quickly and back in, ok?).
+
+You may want to download the zip file of the [example latex template](https://github.com/schnoddelbotz/writing/archive/refs/heads/main.zip) and unpack to your, uh, checkout directory.
+
+Either way, you're now able to run `TexShop.app`, which came with the `MacTex` installer.
+Any `.tex` file will be opened with this application. It's like the offline version of Overleaf ;).
+
+### BACKUP, revision control system (RCS)
+
+The above preparations now deliver: Any file we add or alter inside the checkout will pop up in SublimeMerge.
+After one set of work is done (hour, hours, day?) - COMMIT. That creates a LOG ENTRY and captures state at the time.
+The COMMIT works only on files STAGED for the upcoming commit, meaning you can select which files you want to "submit" to version control with this step. Nice, no?
+
+This helps locally, a LOT already. But the IT department knows its Papenheimers - you will spill coffee on your notebook, killing it 2 days before submission. Accordingly, as [Al Lowe](https://twitter.com/AlLowe) said:
+
+> Save often, save early!
+
+IIRC, that was in Leisure Suit Larry I, no? If you need to check: [LSL1](https://www.youtube.com/watch?v=Wyvi1pdDPUc).
+
+For us, today, this means: PUSH the LOCAL changes to some REMOTE repository for backup purposes (or just sharing).
+You can have any number of remotes. git is a distributed version control system. We stick to one. No confusion now :)
+
+Just BACK UP REGULARILY. If you avoid git, create revisions your own and keep copies of them ONLINE / OFFLINE etc.
+
+Sure. Secure. Enable [2FA](https://www.youtube.com/watch?v=EY9hiHD9XKU) on Github or wherever you are, they said!
 
 ## From Outline to paragraphs, sections, chapters etc.
 
