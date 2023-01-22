@@ -219,10 +219,11 @@ here and only for some areas I thought I'd have some lame ideas.
 Yeah. Where would this fit in otherwise? [Twitter](https://twitter.com/x4e_ch)?
 
 If your document is about reporting some historic events, you may
-enchant your reader using a timeline. Oh, see the LaTeX doc.
+[enchant your reader](https://www.youtube.com/watch?v=AlNA6qAGfEc)
+using a timeline. Oh, see the LaTeX doc.
 Sorry! Preview:
 
-
+WIP. I'll be back.
 
 
 ## Example(s)
