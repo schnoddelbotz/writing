@@ -413,6 +413,11 @@ hands CORRECTLY on a keyboard. I started using the two-finger-hawk-search-approa
 (the [Adler-Suchsystem](https://de.wikipedia.org/wiki/Adlersuchsystem)), which
 I now have to tell [Hamdan](https://twitter.com/HamdanMohammed) about.
 I think he loves hawks as well. Save the planet. Visit Dubai for hawks!
+I never used [Adler32](https://en.wikipedia.org/wiki/Adler-32). But
+it's surely not wrong to start diving into checksums with looking at simple ones.
+Then you might also be able to have a 100% paper-free digital government,
+saving tonnes of paper every year like [Dubai](https://www.youtube.com/watch?v=V5DUK8EHDak).
+Is your government really green or only acting as if?
 
 ### Day 0 + 1
 
