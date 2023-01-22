@@ -466,6 +466,20 @@ ETHICS is the core problem most governments have proven unable
 so far to deal with - so don't start talking about IT. Not in
 this decade. Go, grab your pencil now. PEACE.
 
+# DISCLAIMER
+
+I always sucked in arts. The template is probably ugly.
+Ask Stadt Zurich for their VA MS Word template.
+
+Or use [Eisvogel Latex template](https://github.com/Wandmalfarbe/pandoc-latex-template).
+Next, create a [Github action](https://www.youtube.com/watch?v=R8_veQiYBjI).
+What gives? Let me tell you about Jörg. He studied meteorology.
+He desperately needed to go surfing before submission deadline.
+So he dialed into his university and send his work to the professors printer.
+Accepted. Works the same on github. I think. Meaning you could create
+an action that rebuilds the PDF upon commit. For your next thesis?
+Oder als Fingerübung? Na, fit? Nice!
+
 # Illegal : Violation of human rights - Julian Assange #FreeAssange
 
 I do not care that much whteher you liked this document.
