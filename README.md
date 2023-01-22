@@ -323,8 +323,29 @@ Finally, RESOLUTION. Should you stumble upon that. Old CRT (Cathode ray tube, Ka
 monitors often used 72dpi or so? Your inkjet printer was said to be 600 dpi but that was a bad joke,
 because ink and paper, hach! Luckily you would never be able to measure and the numbers marketed
 quite well. Anyhow. Scans/Images - don't go beyond 300dpi. Most often "old" screen resolution of 72dpi would do
-for most documents printed A4 if not using vector graphics. Today, we have HiDPI retina displays, with resolution beyond capabilities of our eyes. That's because - we can. Uhm?
+for most documents printed A4 if not using vector graphics. Today, we have HiDPI retina displays, with resolution beyond capabilities of our eyes. That's because - [we can](https://www.youtube.com/watch?v=KRnEVzpgQnM). Uhm? Ach,
 
+### Ethics. Drat!
+
+If you're not attending the worst of schools and writing more
+than a simple four hour exam, you will have to sign some
+ethics agreement.
+
+For example at [Liverpool University](https://www.liverpool.ac.uk/),
+signing the ethics agreement is the first step towards
+writing some thesis AT ALL.
+
+THINK ABOUT what you're going to publish. DO NOT STEAL.
+You WILL get caught. And so on. True story by the way.
+
+Any curriculum should include ethical discussions
+to raise awareness of our own abilities today.
+With the right (or left) click of a mouse,
+we can decide about the lives of thousands on the
+other part of the world.
+[So far away](https://www.youtube.com/watch?v=IHXK9glwFBg) --
+[from here](https://www.youtube.com/watch?v=M71Cc1mIOKM).
+Never forget - [we have the internet](https://www.youtube.com/watch?v=14lQqDecueY).
 
 ## Scanning
 
