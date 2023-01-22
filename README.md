@@ -385,3 +385,20 @@ And keep in mind those plagiarism checkers gain all your knowledge.
 ETHICS is the core problem most governments have proven unable
 so far to deal with - so don't start talking about IT. Not in
 this decade. Go, grab your pencil now. PEACE.
+
+# Illegal : Violation of human rights - Julian Assange #FreeAssange
+
+I do not care that much whteher you liked this document.
+I would be **happy** should you have found valuable information.
+Either way, I'd like to kindly ask you to enage for free speech.
+To **enable** more and **better** people to **share helpful things** with others.
+To do so, please visit e.g. [FreeAssange dot EU](https://freeassange.eu),
+[follow Julian Assange's wife and kids on Twitter](https://twitter.com/Stella_Assange),
+write to [the Australian PM MP MM PP](https://twitter.com/AlboMP). Note that
+Australia does have a special history with prisoners and UK.
+
+## Free Julian Assange now!
+
+Thanks,
+☮️
+[schnoddelbotz](https://twitter.com/x4e_ch)
