@@ -323,6 +323,46 @@ hands CORRECTLY on a keyboard. I started using the two-finger-hawk-search-approa
 I now have to tell [Hamdan](https://twitter.com/HamdanMohammed) about.
 I think he loves hawks as well. Save the planet. Visit Dubai for hawks!
 
+### Day 0 + 1
+
+I see, you're still around. Okay. So speaking is not our strength.
+That's fine. Let's try another approach.
+
+I once had to do a [Referat](https://www.youtube.com/watch?v=qRLQDCyPqYQ) in school,
+which equals writing an #Aufsatz (essay) - but usually you have to (literally) "hold"
+a presentation in German - ein Referat halten - meaning you must also present your work.
+
+I chose to talk about Phil Collins, because I love his
+[In the air tonight](https://www.youtube.com/watch?v=YkADj0TPrJA).
+Back in 1996, there was no Wikipedia, but similar, just more cluttered,
+onorganised, say, less authority. Don't want to bore you, but back then,
+there was no TurnitIn so I could just print a webpage (disable url in print settings).
+That gave me a 2, changing my final grade from 4 to 2. That was an exception,
+but the work was also exceptional.
+
+What I wanted to say. Assume you chose Phil Collins as topic.
+Then visit the [Phil Collins Wikipedia page](https://en.wikipedia.org/wiki/Phil_Collins)
+and collect and note some things, e.g.
+
+- structure of that document
+- keywords (for YOUR outline / mindmap)
+- important dates
+- references
+
+Do not copy a complete sentence from there.
+It's useless - [plagiarism](https://en.wikipedia.org/wiki/Plagiarism).
+Instead FINALLY start writing some part of YOUR document, based on what you, say, COLLECTED.
+Start with simple sentences stating facts, leave out your OPINION if not in that section for it.
+
+### Day Z -1
+
+Run the DAMN SPELLCHECKER accross your document if not enabled by default.
+Wouldn't it be stupid to let your oppenent win using a tool you had at your own hands minutes before submission?
+It's probably too late for [grammarly](https://grammarly.com/) now to fix your grammar errors.
+Maybe you'll even have teachers stating you could not write such good language and grade you down. Clarify beforehand.
+Maybe it's enough to visit the [Hunspell](https://github.com/hunspell) website, as they just fixed all your spelling
+errors for free and open source, and say hi and close the tab again.
+
 # Legal
 
 These tips come without warranty. See room for improvement?
