@@ -171,7 +171,7 @@ Google "Latex download mac" to find [MacTex](https://www.tug.org/mactex/) for Ma
 
 This section assumes macOS where you want to install [MacTex](https://www.youtube.com/watch?v=7u4_gzx-9rE).
 Windows users replace that with e.g. [MikTex](https://miktex.org/). On Debian or Ubuntu Linux, type
-`sudo apt install textlive` (see [debian texlive meta-package](https://packages.debian.org/bookworm/texlive)).
+`sudo apt install texlive` (see [debian texlive meta-package](https://packages.debian.org/bookworm/texlive)).
 Do that now. Something for your diary!
 
 Next choose a free GIT hosting service that offers PRIVATE repositories,
