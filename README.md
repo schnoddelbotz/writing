@@ -284,6 +284,17 @@ Sorry! Preview:
 
 WIP. I'll be back.
 
+I'm back.
+
+In discussion with Dave today, we figured: Let's PAINT the timeline
+by hand. Draw it nicely. Using pen and paper. Then scan it (see below).
+Reason: Your document will look TOOO PERFECT. I'm sharing information
+here otherwise used by the [IEEE](https://twitter.com/IEEEorg) people
+to perform their standardised review processes. That's science.
+If you're school, you can outperform others by using LaTeX for sure,
+but ensure to add some [personal love note](https://www.youtube.com/watch?v=p2sIJAtCUOI&list=OLAK5uy_lGw264PrvEhtwb1WcggeiMNQO3hRVQuaQ) back in.
+Handwriting can look so awesome. We lost it. Impress your teacher!
+
 
 ## Example(s)
 
