@@ -475,7 +475,7 @@ Or use [Eisvogel Latex template](https://github.com/Wandmalfarbe/pandoc-latex-te
 Next, create a [Github action](https://www.youtube.com/watch?v=R8_veQiYBjI).
 What gives? Let me tell you about Jörg. He studied meteorology.
 He desperately needed to go surfing before submission deadline.
-So he dialed into his university and send his work to the professors printer.
+So he dialed into his university network from home and sent his work to the professors' printer (on a Sunday).
 Accepted. Works the same on github. I think. Meaning you could create
 an action that rebuilds the PDF upon commit. For your next thesis?
 Oder als Fingerübung? Na, fit? Nice!
