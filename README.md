@@ -214,6 +214,17 @@ here and only for some areas I thought I'd have some lame ideas.
 - kilo mega giga tera peta ... scale
 - awk cat sed tr perl wc yacc echo printf tar rev tr id w?
 
+### Impressive timeline
+
+Yeah. Where would this fit in otherwise? [Twitter](https://twitter.com/x4e_ch)?
+
+If your document is about reporting some historic events, you may
+enchant your reader using a timeline. Oh, see the LaTeX doc.
+Sorry! Preview:
+
+
+
+
 ## Example(s)
 
 See [examples/va.tex](https://github.com/schnoddelbotz/writing/tree/main/examples) for an LaTeX
