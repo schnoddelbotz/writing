@@ -49,7 +49,7 @@ supposed to produce. Here are some common german examples ..
 | Aufsatz Essay  | Primary school  | Any freeform text work  | 1~5p |
 | Erörterung     | Secondary school| Comments on some topic  | 1~5p | 
 | Interpretation | Sec/Highschool  | Text understanding test | 1~5p |
-| VA (Zurich)    | Lehre Lagerist etc | Free choice, choose well | 6p |
+| VA (Zurich)    | Lehre Lagerist etc | Free choice, [choose well](https://www.youtube.com/watch?v=43niOeHfXKk) | 6p |
 | Thesis Diplomarbeit Masterarbeit| Institutes of technology, Universities | Same as VA | ~100p |
 | Dissertation   | University      | To gain Dr. / Same as VA | 100+p|
 
