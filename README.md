@@ -167,6 +167,51 @@ To give the Latex approach a quick try, visit [OverLeaf](https://www.overleaf.co
 
 Google "Latex download mac" to find [MacTex](https://www.tug.org/mactex/) for MacOS etc. I'll add links [one day](https://www.youtube.com/watch?v=YRom6y1E8p8), maybe.
 
+## Software - REALITY - POLITICS - MUST READ - About ... SUBMISSION
+
+**STOP** Here. And re-verify: What document type are you supposed to submit (for final document submission)?
+File extension `.DOCX`? `.DOC`? That's Microsoft Word, cheers. If PDF - you're lucky.
+
+*If you MUST submit MS WORD, then free LaTeX is NO option.*
+
+You could take LibreOffice, but then you can run into formatting issues,
+killing your grades. **Check with your university and lawyer if time and money permits.**
+
+### MS WORD Help Quickie on templates
+
+Fill a `.dot` or `.dotx` template (READ: DOCUMENT TEMPLATE; XML+gzip =~ Office 2014+) from the start -- do NOT use Word to write and format and THEN paste to the template.
+
+To do so:
+
+1. Open the `.dotx`
+2. Put your name there, e.g.
+3. Go to File -> Save as ... and save as your `.doc(x)` now - as WORD DOCUMENT **based** on that dotx template.
+4. Reboot
+5. Open the .docx file. And take daily backups. It was your choice, say.
+
+Q: Why NOT to write your own MS WORD document first and then paste into the template?
+A: You would copy the *STYLE* as well, destroying the idea of the template - finally killing your grade. It's a Windows/Mac bug ;)
+Use Notepad or some editor without RichText capabilities - so if you paste, the section style from template will be applied as if you type :-) True story. The clipboard is RichText aware.
+On a Mac, use TextEdit and press `Cmd`-`Shift`-`T` to make switch to *PlainText* mode.
+
+**PlainText** in IT means (or in general, unsure): Text WITHOUT any STYLE INFORMATION attached to it, digitally. A **RichTextEditor** like [TinyMCE](https://www.tiny.cloud/) is a WYSIWYG editor, meaning it lets you ATTACH style to a portion of text via a menu font chooser and font size chooser and a button for bold etc. Back in LaTeX, you would write (plain text ;):
+
+```latex
+Some of the \textbf{greatest}
+discoveries in \underline{science}
+were made by \textbf{\textit{accident}}.
+```
+See? You can READ the style information, like in HTML or so - a TEXT format, in contrast to a BINARY format that only Computers can understand when looking at it.
+The above example is from [Overleaf - Bold, italics and underlining](https://www.overleaf.com/learn/latex/Bold%2C_italics_and_underlining). Unsure about this paragraph. Gotta go to bed.
+
+
+`HACK` PS. If working with a teacher that reviews, ensure to add work to latest reviewed version sent around by mail. ORGANIZE YOUR Dateiablage in German - File ... storage. Implement revision control, you're in the IT now. Peace.
+
+### Grade targeting
+
+Bewertungsraster --> Indicator of what is important in your work -> relevance grade.
+Focus on them.
+
 ### Setting up your machine to work with git and LaTeX
 
 This section assumes macOS where you want to install [MacTex](https://www.youtube.com/watch?v=7u4_gzx-9rE).
